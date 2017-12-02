@@ -74,8 +74,7 @@ export class AppComponent{
     fontWeigth: '700',
     fontFamily: 'Roboto',
     valueformat: 'percent',
-    value: 0,
-    max: 100
+    max: 100,
     trackWidth: 19,
     barWidth: 20,
     trackColor: '#D8D8D8',
